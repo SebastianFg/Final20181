@@ -1,0 +1,9 @@
+C:\Users\Sebastian\source\repos\Entidades\Final2018\bin\Debug\netstandard2.0\Final2018.deps.json
+C:\Users\Sebastian\source\repos\Entidades\Final2018\bin\Debug\netstandard2.0\Final2018.dll
+C:\Users\Sebastian\source\repos\Entidades\Final2018\bin\Debug\netstandard2.0\Final2018.pdb
+C:\Users\Sebastian\source\repos\Entidades\Final2018\obj\Debug\netstandard2.0\Final2018.vbprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\Entidades\Final2018\obj\Debug\netstandard2.0\Final2018.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Entidades\Final2018\obj\Debug\netstandard2.0\Final2018.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\Entidades\Final2018\obj\Debug\netstandard2.0\Final2018.AssemblyInfo.vb
+C:\Users\Sebastian\source\repos\Entidades\Final2018\obj\Debug\netstandard2.0\Final2018.dll
+C:\Users\Sebastian\source\repos\Entidades\Final2018\obj\Debug\netstandard2.0\Final2018.pdb
